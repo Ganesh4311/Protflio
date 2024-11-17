@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,8 +39,9 @@
 <body>
     <div class="container">
         <h1>Welcome to My Portfolio</h1>
-        <p>Hi, I'm [Your Name], a [Your Profession]. Feel free to connect with me on LinkedIn!</p>
-        <a class="profile-link" href="https://www.linkedin.com/in/your-profile-id/" target="_blank">
+        <img src="C:\Users\gatte\Downloads\pic.jpg" alt="Your Photo" style="width:150px; border-radius:50%;">
+        <p>Hi, I'm Gattem Ganeshkumar, a FrontEnd developer. Feel free to connect with me on LinkedIn!</p>
+        <a class="profile-link" href="https://www.linkedin.com/in/ganesh-kumar-gattem-407a10229/" target="_blank">
             Visit My LinkedIn Profile
         </a>
     </div>
