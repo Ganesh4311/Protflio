@@ -39,7 +39,7 @@
 <body>
     <div class="container">
         <h1>Welcome to My Portfolio</h1>
-        <img src="C:\Users\gatte\OneDrive\Documents\GitHub\protflio\pic.jpg" alt="Your Photo" style="width:150px; border-radius:50%;">
+        <img src="Profile_photo.jpg" alt="Your Photo" style="width:150px; border-radius:50%;">
         <p>Hi, I'm Gattem Ganeshkumar, a FrontEnd developer. Feel free to connect with me on LinkedIn!</p>
         <a class="profile-link" href="https://www.linkedin.com/in/ganesh-kumar-gattem-407a10229/" target="_blank">
             Visit My LinkedIn Profile
